@@ -7,10 +7,11 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme
     runs-on: ubuntu-latest
 
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: true
+          SHOW_TOTAL: true
