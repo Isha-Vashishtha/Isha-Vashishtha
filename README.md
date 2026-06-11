@@ -6,15 +6,7 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 </div>
 
-<h2 align="center">🎵 Currently Listening To</h2>
-
-<p align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b3jcxg7dhl45tkrkowsu7ab6qi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
-</a>
-</p>
-
-# Hi 👋, I'm Isha Vashishtha
+<h1 align="center"> Hi 👋, I'm Isha Vashishtha</h1>
 
 ### 🚀 AI Engineer | Data Science Enthusiast | Machine Learning Developer | Software Developer | Problem Solver
 
