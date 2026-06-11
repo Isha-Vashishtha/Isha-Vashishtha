@@ -1,19 +1,31 @@
 <div align="center">
-  <img src="banner.png" width="100%">
-</div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
-</div>
+<img src="banner.png" width="100%">
 
-<h1 align="center"> Hi 👋, I'm Isha Vashishtha</h1>
+<br>
 
-### 🚀 AI Engineer | Data Science Enthusiast | Machine Learning Developer | Software Developer | Problem Solver
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450">
 
+# Hi 👋, I'm Isha Vashishtha
+
+### 🚀 AI Engineer | Data Scientist | Machine Learning Developer | Software Developer
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Data+Science+%7C+Deep+Learning;Building+Real+World+AI+Solutions;Future+Data+Scientist+%26+AI+Engineer;Always+Learning+Something+New" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Isha-Vashishtha&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
+---
+## 🎵 Currently Listening To
+
+<p align="center">
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b3jcxg7dhl45tkrkowsu7ab6qi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
+</a>
+</p>
 ---
 
 ## 🌟 About Me
@@ -28,6 +40,12 @@
 - Deep Learning
 - Generative AI
 - Software Development
+
+💭 I believe that technology is most powerful when it solves real-world problems and improves people's lives.
+
+🌱 Every project I build is a step toward becoming a better engineer, learner, and problem solver.
+
+✨ Beyond coding, I value purpose, continuous growth, and finding happiness in the journey.
 
 🎯 Career Goal:
 
@@ -297,13 +315,21 @@ Worked on:
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Isha-Vashishtha&show_icons=true&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Isha-Vashishtha&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Isha-Vashishtha&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-Vashishtha&layout=compact&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-Vashishtha&layout=compact&theme=tokyonight)
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isha-Vashishtha&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -345,7 +371,7 @@ Worked on:
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/isha-vashishtha-890a48288/)">
+<a href="https://www.linkedin.com/in/isha-vashishtha-890a48288/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -363,8 +389,12 @@ Worked on:
 
 <div align="center">
 
-### ✨ "Success is the result of consistent learning, hard work, and perseverance."
+## 🌿 Philosophy
 
-![](https://komarev.com/ghpvc/?username=Isha-Vashishtha&color=blue)
+### ✨ "Live your purpose. Trust your journey. Choose happiness along the way."
+
+🚀 AI Engineer | Data Scientist | Lifelong Learner
+
+<img src="https://komarev.com/ghpvc/?username=Isha-Vashishtha&color=blue&style=for-the-badge"/>
 
 </div>
