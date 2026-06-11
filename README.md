@@ -23,152 +23,56 @@
 
 ## 🌟 About Me
 
-🎓 Pursuing **B.Tech (Honours) in Computer Science Engineering (AI & Analytics)** at **GLA University, Mathura** with **8.87** **CGPA** 
+🎓 B.Tech CSE (AI & Analytics) @ GLA University
 
 💡 Passionate about:
-
 - Artificial Intelligence
 - Machine Learning
 - Data Science
-- Deep Learning
-- Generative AI
 - Software Development
+
+🚀 Building AI-powered solutions in Healthcare, Agriculture, Finance, and Research.
+
+🌱 Currently Learning:
+- Advanced DSA
+- System Design
+- MLOps
+- Agentic AI
 
 💭 I believe that technology is most powerful when it solves real-world problems and improves people's lives.
 
 🌱 Every project I build is a step toward becoming a better engineer, learner, and problem solver.
 
 ✨ Beyond coding, I value purpose, continuous growth, and finding happiness in the journey.
+---
 
-🎯 Career Goal:
+## 🔥 Featured Projects
 
-> To become a world-class AI Engineer and Data Scientist capable of building impactful solutions that solve real-world problems.
+| Project | Tech Stack |
+|----------|------------|
+| 🌾 AI Crop Disease Detection | TensorFlow, ResNet50, Streamlit |
+| 🏥 XAI Healthcare System | EfficientNet, Grad-CAM, LIME |
+| 📚 Research Assistant Agent | Gemini API, Streamlit |
+| 📈 Smart Portfolio Analyzer | ML, Financial Analytics |
+| 💰 Expense Tracker | Flutter, Django |
 
 ---
 
-### 🌾 AI Crop Disease Detection System
+## 💼 Experience
 
-One of my major projects:
-
-#### Features
-
-✅ Crop Disease Classification
-
-✅ Deep Learning Based Prediction
-
-✅ Treatment Recommendation
-
-✅ Environmental Monitoring
-
-✅ Explainable AI Integration
-
-#### Technologies
-
-- Python
-- TensorFlow
-- ResNet50
-- MobileNetV2
-- OpenWeather API
-- Streamlit
+- Data Science Intern @ Prodigy Infotech
+- Web Development Intern
 
 ---
 
-### 🏥 Explainable AI for Healthcare
+## 🏆 Highlights
 
-Built a healthcare prediction system using:
-
-- ResNet50
-- VGG16
-- EfficientNet
-
-Explainability Features:
-
-- LIME
-- Grad-CAM
-
-Goal:
-
-Help healthcare professionals understand model predictions instead of relying on black-box outputs.
-
----
-
-### 📚 Research Assistant Agent
-
-Built an AI-powered research assistant capable of:
-
-- Fetching papers from arXiv
-- Extracting PDF content
-- Question Answering
-- Research Summarization
-
-Tech Stack:
-
-- Gemini API
-- Streamlit
-- PyMuPDF
-- Transformers
-- Heurist Framework
-
----
-
-### 📈 Smart Portfolio Analysis Tool
-
-Developed a system that:
-
-- Analyzes investments
-- Predicts returns
-- Evaluates risk
-- Generates insights
-
-Technologies:
-
-- Python
-- Data Analytics
-- Financial Modeling
-- Machine Learning
-
----
-
-## 💼 Internship Experience
-
-### 🌟 Prodigy Infotech
-
-**Data Science & Development Intern**
-
-Worked on:
-
-- AI Applications
-- Data Analysis
-- Machine Learning Projects
-- Real-world Problem Solving
-
----
-
-### 🌟 Web Development Internship
-
-Worked on:
-
-- Frontend Development
-- Backend Integration
-- Responsive Web Design
-
----
-
-## 🏆 Achievements
-
-🥇 Microsoft Azure AI Fundamentals
-
-🥇 IBM Python for Data Science
-
-🥇 Andrew Ng Machine Learning
-
-🥇 Google Summer Internship Shortlisted
-
-🥇 STEP Program Shortlisted
-
-🥇 Won PRODUCTATHON AI 2025 Hackathon held by IIT ROORKEE
-
-🥇 Multiple AI & ML Projects Developed
+- Microsoft Azure AI Fundamentals
+- IBM Python for Data Science
+- Andrew Ng Machine Learning
+- STEP Program Shortlisted
+- Google Internship Shortlisted
+- Won PRODUCTATHON AI 2025 Hackathon held by IIT ROORKEE
 
 ---
 
