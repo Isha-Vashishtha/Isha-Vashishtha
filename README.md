@@ -287,7 +287,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-athul/waka-readme
+
 ---
 
 # 🔥 Featured Projects
