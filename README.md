@@ -322,7 +322,7 @@ Worked on:
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Isha-Vashishtha/Isha-Vashishtha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Isha-Vashishtha/Isha-Vashishtha/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🎯 2026 Goals
