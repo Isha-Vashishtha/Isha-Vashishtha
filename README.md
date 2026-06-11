@@ -18,14 +18,7 @@
 
 </div>
 
----
-## 🎵 Currently Listening To
 
-<p align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b3jcxg7dhl45tkrkowsu7ab6qi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
-</a>
-</p>
 ---
 
 ## 🌟 About Me
