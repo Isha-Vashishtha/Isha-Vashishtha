@@ -23,7 +23,7 @@
 
 ## 🌟 About Me
 
-🎓 Pursuing **B.Tech (Honours) in Computer Science Engineering (AI & Analytics)** at **GLA University, Mathura**
+🎓 Pursuing **B.Tech (Honours) in Computer Science Engineering (AI & Analytics)** at **GLA University, Mathura** with **8.87** **CGPA** 
 
 💡 Passionate about:
 
@@ -184,23 +184,6 @@ Technologies:
 
 ---
 
-### 💰 Daily Expense Tracker
-
-Tech Stack:
-
-- Flutter
-- Django
-- Machine Learning
-
-Features:
-
-- Expense Tracking
-- Spending Analysis
-- Intelligent Insights
-- Visualization Dashboard
-
----
-
 ## 💼 Internship Experience
 
 ### 🌟 Prodigy Infotech
@@ -238,7 +221,7 @@ Worked on:
 
 🥇 STEP Program Shortlisted
 
-🥇 Hackathon Participant
+🥇 Won PRODUCTATHON AI 2025 Hackathon held by IIT ROORKEE
 
 🥇 Multiple AI & ML Projects Developed
 
