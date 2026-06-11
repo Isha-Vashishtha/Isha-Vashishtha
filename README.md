@@ -44,6 +44,7 @@
 🌱 Every project I build is a step toward becoming a better engineer, learner, and problem solver.
 
 ✨ Beyond coding, I value purpose, continuous growth, and finding happiness in the journey.
+
 ---
 
 ## 🔥 Featured Projects
