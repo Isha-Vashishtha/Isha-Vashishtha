@@ -335,7 +335,7 @@ Worked on:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/isha-vashishtha-890a48288/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -343,7 +343,7 @@ Worked on:
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ishavashishtha862@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
