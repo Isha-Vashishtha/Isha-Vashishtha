@@ -61,8 +61,8 @@
 
 ## 💼 Experience
 
-- Data Science Intern @ Prodigy Infotech
-- Web Development Intern
+- AI Intern @ Codec Technologies
+- Web Development Intern @ Prodigy Infotech
 
 ---
 
