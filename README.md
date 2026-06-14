@@ -118,18 +118,6 @@ JSON         1 min                 █▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-# 🔥 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| 🌾 AI Crop Disease Detection | Deep Learning based disease prediction |
-| 🏥 XAI Healthcare System | Explainable AI for medical predictions |
-| 📚 Research Assistant Agent | AI-powered research paper assistant |
-| 📈 Smart Portfolio Analyzer | Investment analysis platform |
-| 💰 Expense Tracker | Flutter + Django financial application |
-| 🧠 Cancer Prediction System | Healthcare prediction using ML |
-
----
 
 <div align="center">
 
