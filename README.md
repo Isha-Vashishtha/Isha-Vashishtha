@@ -33,12 +33,6 @@
 
 🚀 Building AI-powered solutions in Healthcare, Agriculture, Finance, and Research.
 
-🌱 Currently Learning:
-- Advanced DSA
-- System Design
-- MLOps
-- Agentic AI
-
 💭 I believe that technology is most powerful when it solves real-world problems and improves people's lives.
 
 🌱 Every project I build is a step toward becoming a better engineer, learner, and problem solver.
@@ -74,18 +68,6 @@
 - STEP Program Shortlisted
 - Google Internship Shortlisted
 - Won PRODUCTATHON AI 2025 Hackathon held by IIT ROORKEE
-
----
-
-## 📚 Currently Learning
-
-- Advanced DSA
-- System Design
-- MLOps
-- Generative AI
-- Agentic AI
-- Large Language Models
-- Cloud Computing
 
 ---
 
@@ -188,16 +170,6 @@ JSON         1 min                 █▒░░░░░░░░░░░░░
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Isha-Vashishtha/Isha-Vashishtha/output/github-contribution-grid-snake.svg)
----
-
-## 🎯 2026 Goals
-
-- Solve 1000+ DSA Problems
-- Master System Design
-- Become an Open Source Contributor
-- Publish AI Research Work
-- Build Scalable AI Applications
-- Secure a Top Data Scientist / AI Engineer Role
 
 ---
 
