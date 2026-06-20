@@ -109,11 +109,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 mins
+Total Time: 12 mins
 
-JavaScript   16 mins               ██████████████▒░░░░░░░░░░   57.72 %
-Java         12 mins               ██████████▓░░░░░░░░░░░░░░   42.09 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java     12 mins               █████████████████████████   99.55 %
+Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
