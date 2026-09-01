@@ -109,10 +109,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 0 secs
 
-Git Config   6 mins                ██████████████████████░░░   88.61 %
-Bash         0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
